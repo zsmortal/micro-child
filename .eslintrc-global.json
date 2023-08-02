@@ -1,0 +1,6 @@
+{
+  "globals": {
+    "ObjectType": true,
+    "ArrayType": true
+  }
+}
